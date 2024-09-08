@@ -1,0 +1,7 @@
+---
+title: "Terms"
+---
+
+# Terms
+
+Terms

@@ -1,0 +1,34 @@
+{
+    "tags": [
+      { "name": "Engineering", "url": "/tag/engineering" },
+      { "name": "Product", "url": "/tag/product" },
+      { "name": "Design", "url": "/tag/design" },
+      { "name": "Company", "url": "/tag/company" }
+    ],
+    "posts": [
+      {
+        "img": "https://picsum.photos/800/450?random=1",
+        "tag": "Engineering",
+        "title": "Welcome to the Blog",
+        "description": "This is the introduction to our blog, where we share insights on engineering and technology.",
+        "date": "2023-09-15",
+        "url": "/post/welcome-to-blog",
+        "authors": [
+          { "name": "John Doe", "avatar": "/static/images/avatar/1.jpg", "url": "/author/john-doe" },
+          { "name": "Robert", "avatar": "/static/images/avatar/2.jpg", "url": "/author/robert" }
+        ]
+      },
+      {
+        "img": "https://picsum.photos/800/450?random=2",
+        "tag": "Product",
+        "title": "Product Introduction",
+        "description": "A deep dive into our latest product introduction.",
+        "date": "2023-09-10",
+        "url": "/post/product-introduction",
+        "authors": [
+          { "name": "Robert", "avatar": "/static/images/avatar/2.jpg", "url": "/author/robert" }
+        ]
+      }
+    ]
+  }
+  
